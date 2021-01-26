@@ -18,8 +18,8 @@ Please note we have a code of conduct, please follow it in all your interactions
 ## Requirements
 
 - **[PSR-2 Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)**
-  - The easiest way to apply the conventions is to
-  install [PHP Code Sniffer](https://pear.php.net/package/PHP_CodeSniffer).
+    - The easiest way to apply the conventions is to
+      install [PHP Code Sniffer](https://pear.php.net/package/PHP_CodeSniffer).
 
 - **Add tests!** - Your patch won't be accepted if it doesn't have tests.
 
@@ -82,9 +82,9 @@ event. Representation of a project may be further defined and clarified by proje
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team
-at [INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated and will result in a response that is deemed
-necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to
-the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+at [thetestcoder@gmail.com]. All complaints will be reviewed and investigated and will result in a response that is
+deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with
+regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent
 repercussions as determined by other members of the project's leadership.
