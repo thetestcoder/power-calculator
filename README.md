@@ -2,9 +2,9 @@
 
 ## Budge Goes Here
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/vendor_name/package_name.svg?style=flat-square)](https://packagist.org/packages/vendor_name/package_name)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/thetestcoder/power-calculator.svg?style=flat-square)](https://packagist.org/packages/thetestcoder/power-calculator)
 
-[![GitHub Tests Status](https://img.shields.io/github/workflow/status/vendor_name/package_name/Tests?label=Tests)](https://github.com/vendor_name/package_name/actions?query=workflow%3ATests+branch%3Amaster)
+[![GitHub Tests Status](https://img.shields.io/github/workflow/status/thetestcoder/power-calculator/Tests?label=Tests)](https://github.com/vendor_name/power-calculator/actions?query=workflow%3ATests+branch%3Amaster)
 
 ## Installation
 
