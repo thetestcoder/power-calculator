@@ -2,7 +2,6 @@
 
 namespace TheTestCoder\PowerCalculator;
 
-
 class PowerCalculator
 {
     private float $watt;

@@ -3,7 +3,6 @@
 
 namespace TheTestCoder\PowerCalculator\Tests;
 
-
 use PHPUnit\Framework\TestCase;
 use TheTestCoder\PowerCalculator\PowerCalculator;
 
