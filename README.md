@@ -1,9 +1,8 @@
 # Project Info
 
-## Budge Goes Here
+The Package will help you to convert power units into another unit.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/thetestcoder/power-calculator.svg?style=flat-square)](https://packagist.org/packages/thetestcoder/power-calculator)
-
 [![GitHub Tests Status](https://img.shields.io/github/workflow/status/thetestcoder/power-calculator/Tests?label=Tests)](https://github.com/vendor_name/power-calculator/actions?query=workflow%3ATests+branch%3Amaster)
 
 ## Installation
