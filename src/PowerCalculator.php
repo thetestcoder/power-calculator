@@ -2,7 +2,6 @@
 
 namespace TheTestCoder\PowerCalculator;
 
-
 class PowerCalculator
 {
     private float $watt;
@@ -29,8 +28,20 @@ class PowerCalculator
         $this->hours = $hours;
     }
 
+    /**
+     * @return float
+     */
     public function intoKWH(): float
     {
         return ($this->watt * $this->hours) / 1000;
+    }
+
+    /**
+     * @param float $per_unit_cost
+     * @return float
+     */
+    public function findCost(float $per_unit_cost): float
+    {
+        return $this->intoKWH() * $per_unit_cost;
     }
 }
